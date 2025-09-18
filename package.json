@@ -1,9 +1,12 @@
 {
 	"type": "module",
 	"dependencies": {
+		"@prisma/client": "^6.16.2",
+		"@prisma/extension-accelerate": "^2.0.2",
 		"dotenv": "^17.2.1",
 		"node-telegram-bot-api": "^0.66.0",
 		"openai": "^5.16.0",
+		"prisma": "^6.16.2",
 		"telegraf": "^4.16.3"
 	},
 	"name": "balebot2",
