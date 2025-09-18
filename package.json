@@ -1,6 +1,27 @@
 {
 	"type": "module",
 	"dependencies": {
-		"dotenv": "^17.2.1"
-	}
+		"dotenv": "^17.2.1",
+		"node-telegram-bot-api": "^0.66.0",
+		"openai": "^5.16.0",
+		"telegraf": "^4.16.3"
+	},
+	"name": "balebot2",
+	"version": "1.0.0",
+	"description": "b\u0000a\u0000l\u0000e\u0000b\u0000o\u0000t\u0000 \u0000 \u0000",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MatinGG/balebot.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MatinGG/balebot/issues"
+	},
+	"homepage": "https://github.com/MatinGG/balebot#readme"
 }
